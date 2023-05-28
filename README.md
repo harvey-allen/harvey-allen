@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/C4E03AQFL1UprKtFDsA/profile-displayphoto-shrink_800_800/0/1660999972071?e=1691020800&v=beta&t=3PHzyynjji25kivP1-FkMRi7-9WPNSC0ho2LvXPS95M" width="200"/>
+  <img src="https://media.licdn.com/dms/image/C4E03AQFL1UprKtFDsA/profile-displayphoto-shrink_800_800/0/1660999972071?e=1691020800&v=beta&t=3PHzyynjji25kivP1-FkMRi7-9WPNSC0ho2LvXPS95M" width="150"/>
   <h1>Harvey Allen</h1>
   <h3>Data Scientist / Python Developer</h3>
   <br></br>
