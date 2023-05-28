@@ -10,6 +10,8 @@
   <p>
     A highly skilled, motivated and competent python developer with a strong foundation in software development and programming principles. Proficient in a variety of languages and platforms, with an in depth knowledge of computational mathematics and data science as well as an innate ability to adapt, learn and master new technologies.
   </p>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harvey-allen)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harvey-allen&layout=compact&theme=vision-friendly-dark)
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" title="MatLab" **alt="Matlab" width="40" height="40"/>
