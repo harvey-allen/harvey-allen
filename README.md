@@ -11,7 +11,7 @@
 <p>
 A highly skilled, motivated and competent python developer with a strong foundation in software development and programming principles. Proficient in a variety of languages and platforms, with an in depth knowledge of computational mathematics and data science as well as an innate ability to adapt, learn and master new technologies.
 </p>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=harvey-allen&theme=dark&background=000000" alt="Genral Statistics" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=harvey-allen&theme=dark&background=000000" alt="Genral Statistics" width="400"/>
 <br></br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
