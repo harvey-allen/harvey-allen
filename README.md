@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="static/headshot.jpeg" alt="Headshot Photo">
+    <img src="static/headshot.jpeg" alt="Headshot Photo" width="50%">
     <h1>Harvey Allen</h1>
     <h3>Data Scientist / Python Developer</h3>
     <a href="https://www.linkedin.com/in/harveyallen/">
