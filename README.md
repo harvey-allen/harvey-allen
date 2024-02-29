@@ -8,5 +8,5 @@
 </div>
 <div id="body" align="center">
     <br>
-    <p>A highly skilled, motivated and competent python developer with a strong foundation in software development and programming principles. Proficient in a variety of languages and platforms, with an in depth knowledge of financial technology and data science as well as an innate ability to adapt, learn and master new technologies.</p>
+    <p>Python Developer with a drive for creating effective solutions. Equipped with advanced programming skills and a passion for problem-solving. Committed to contributing to dynamic projects and collaborating with         talented teams.</p>
 </div>
