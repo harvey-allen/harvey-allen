@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="static/headshot.jpeg" alt="Headshot Photo" width="25%">
     <h1>Harvey Allen</h1>
-    <h3>Data Scientist | Python Developer</h3>
+    <h3>Data Scientist | Python Engineer</h3>
     <a href="https://www.linkedin.com/in/harveyallen/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
