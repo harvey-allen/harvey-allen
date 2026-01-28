@@ -6,6 +6,4 @@
     </a>
 </div>
 <div id="body" align="center">
-    <br>
-    <p>Python Developer with a drive for creating effective solutions. Equipped with advanced programming skills and a passion for problem-solving. Committed to contributing to dynamic projects and collaborating with         talented teams.</p>
 </div>
